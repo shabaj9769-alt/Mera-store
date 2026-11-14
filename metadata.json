@@ -1,0 +1,6 @@
+{
+  "name": "MeraStore - Online Shopping",
+  "description": "MeraStore is your go-to place for online shopping across mobiles, electronics, fashion, home appliances, beauty, and daily essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
